@@ -6,7 +6,7 @@ Output
 Print the missing number.
 Constraints
 
-2 \le n \le 2 \cdot 10^5
+2 <= n <= 2*10^5
 
 Example
 Input:
